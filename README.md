@@ -9,10 +9,10 @@ The app enables users to log stressor entries throughout the day, retrieve simil
 ## 📸 UI Preview
 
 ### ✏️ Stressor Logging Interface
-![Main UI](/assets/ui_main.png)
+![Main UI](/assets/image_1.png)
 
 ### 🤖 Personalized LLM Reflection Output
-![Reflection UI](/assets/ui_reflection.png)
+![Reflection UI](/assets/image_2.png)
 
 ---
 
@@ -39,8 +39,4 @@ The app enables users to log stressor entries throughout the day, retrieve simil
 
 ---
 
-## 📸 Demo
 
-![demo](assets/image_1.png)
-
-![demo](assets/image_2.png)
