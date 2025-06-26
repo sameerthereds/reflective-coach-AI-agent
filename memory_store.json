@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2025-06-26",
+    "summary": "Stressful day involving Approaching Deadline at Home.",
+    "theme": "You are an assistant that classifies stressor summaries into high-level themes."
+  },
+  {
+    "date": "2025-06-27",
+    "summary": "Low stress day with no major stressors reported.",
+    "theme": "Calm"
+  },
+  {
+    "date": "2025-06-30",
+    "summary": "Stressful day involving Approaching Deadline, Household Chores at Work, Home.",
+    "theme": "You are an assistant that classifies stressor summaries into high-level themes."
+  },
+  {
+    "date": "2025-07-02",
+    "summary": "Stressful day involving Travel anxiety at Car.",
+    "theme": "You are an assistant that classifies stressor summaries into high-level themes."
+  }
+]
